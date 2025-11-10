@@ -1,6 +1,6 @@
 {
-	"Name": "Definitive Tourneys [ASH]",
-	"Version": 1759858459,
+	"Name": "Definitive Tourneys",
+	"Version": 1762810774,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -67,6 +67,7 @@
 				"130"
 			],
 			"KillerIndvPerkBans": [
+				"131",
 				"133",
 				"134",
 				"136",
@@ -153,6 +154,10 @@
 				[
 					"21",
 					"127"
+				],
+				[
+					"36",
+					"80"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -317,7 +322,6 @@
 				"274",
 				"65",
 				"70",
-				"88",
 				"94",
 				"92",
 				"106",
@@ -367,7 +371,7 @@
 	"KillerOverride": [
 		{
 			"Name": "The Trapper",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"4",
@@ -437,7 +441,7 @@
 		},
 		{
 			"Name": "The Wraith",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"0",
@@ -512,7 +516,7 @@
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "",
+			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nVigo's Shroud and Shroud of Separation must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"44",
@@ -538,7 +542,9 @@
 				"110"
 			],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"43"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -594,7 +600,7 @@
 		},
 		{
 			"Name": "The Nurse",
-			"KillerNotes": "",
+			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nVigo's Shroud and Shroud of Separation must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"0",
@@ -682,7 +688,7 @@
 		},
 		{
 			"Name": "The Shape",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"0",
@@ -754,7 +760,7 @@
 		},
 		{
 			"Name": "The Hag",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"32",
@@ -826,7 +832,7 @@
 		},
 		{
 			"Name": "The Doctor",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"9",
@@ -897,7 +903,7 @@
 		},
 		{
 			"Name": "The Huntress",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"8",
@@ -974,7 +980,7 @@
 		},
 		{
 			"Name": "The Cannibal",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"8",
@@ -1051,7 +1057,7 @@
 		},
 		{
 			"Name": "The Nightmare",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"0",
@@ -1125,7 +1131,7 @@
 		},
 		{
 			"Name": "The Pig",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"32",
@@ -1194,7 +1200,7 @@
 		},
 		{
 			"Name": "The Clown",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"5",
@@ -1271,7 +1277,7 @@
 		},
 		{
 			"Name": "The Spirit",
-			"KillerNotes": "",
+			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nVigo's Shroud and Shroud of Separation must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"42",
@@ -1365,7 +1371,7 @@
 		},
 		{
 			"Name": "The Legion",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"9",
@@ -1430,7 +1436,7 @@
 		},
 		{
 			"Name": "The Plague",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"4",
@@ -1510,7 +1516,7 @@
 		},
 		{
 			"Name": "The Ghost Face",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"20",
@@ -1577,12 +1583,12 @@
 		},
 		{
 			"Name": "The Demogorgon",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"0",
 				"8",
-				"22"
+				"13"
 			],
 			"BalanceTiers": [
 				0,
@@ -1651,7 +1657,7 @@
 		},
 		{
 			"Name": "The Oni",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"0",
@@ -1728,7 +1734,7 @@
 		},
 		{
 			"Name": "The Deathslinger",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"4",
@@ -1801,7 +1807,7 @@
 		},
 		{
 			"Name": "The Executioner",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"8",
@@ -1880,12 +1886,12 @@
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "",
+			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nVigo's Shroud and Shroud of Separation must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"4",
 				"6",
-				"49"
+				"31"
 			],
 			"BalanceTiers": [
 				0,
@@ -1961,7 +1967,7 @@
 		},
 		{
 			"Name": "The Twins",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"4",
@@ -2040,7 +2046,7 @@
 		},
 		{
 			"Name": "The Trickster",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"0",
@@ -2120,7 +2126,7 @@
 		},
 		{
 			"Name": "The Nemesis",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"9",
@@ -2195,7 +2201,7 @@
 		},
 		{
 			"Name": "The Cenobite",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"9",
@@ -2271,7 +2277,7 @@
 		},
 		{
 			"Name": "The Artist",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"5",
@@ -2345,7 +2351,7 @@
 		},
 		{
 			"Name": "The Onryo",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"0",
@@ -2415,7 +2421,7 @@
 		},
 		{
 			"Name": "The Dredge",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"22",
@@ -2486,12 +2492,12 @@
 		},
 		{
 			"Name": "The Mastermind",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"0",
 				"8",
-				"53"
+				"13"
 			],
 			"BalanceTiers": [
 				0,
@@ -2562,7 +2568,7 @@
 		},
 		{
 			"Name": "The Knight",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"5",
@@ -2639,7 +2645,7 @@
 		},
 		{
 			"Name": "The Skull Merchant",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"8",
@@ -2710,7 +2716,7 @@
 		},
 		{
 			"Name": "The Singularity",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"4",
@@ -2793,7 +2799,7 @@
 		},
 		{
 			"Name": "The Xenomorph",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"9",
@@ -2869,7 +2875,7 @@
 		},
 		{
 			"Name": "The Good Guy",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"8",
@@ -2944,7 +2950,7 @@
 		},
 		{
 			"Name": "The Unknown",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"8",
@@ -3023,7 +3029,7 @@
 		},
 		{
 			"Name": "The Lich",
-			"KillerNotes": "Chests are not to be interacted with!",
+			"KillerNotes": "Double Vigo's Shroud must be used!\nChests are not to be interacted with!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"19",
@@ -3100,7 +3106,7 @@
 		},
 		{
 			"Name": "The Dark Lord",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"9",
@@ -3121,6 +3127,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"246",
 				"58",
 				"63"
 			],
@@ -3182,7 +3189,7 @@
 		},
 		{
 			"Name": "The Houndmaster",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"2",
@@ -3257,12 +3264,12 @@
 		},
 		{
 			"Name": "The Ghoul",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
-				"4",
+				"1",
 				"6",
-				"16"
+				"49"
 			],
 			"BalanceTiers": [
 				0,
@@ -3339,7 +3346,7 @@
 		},
 		{
 			"Name": "The Animatronic",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"4",
@@ -3415,7 +3422,7 @@
 		},
 		{
 			"Name": "The Krasue",
-			"KillerNotes": "",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": true,
 			"Map": [
 				0
