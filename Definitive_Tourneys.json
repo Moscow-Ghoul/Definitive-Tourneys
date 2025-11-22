@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1763004294,
+	"Version": 1763790323,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2951,7 +2951,7 @@
 		},
 		{
 			"Name": "The Unknown",
-			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
 				"8",
@@ -2960,21 +2960,20 @@
 			],
 			"BalanceTiers": [
 				0,
-				3,
 				4
 			],
 			"SurvivorBalanceTiers": [
 				0,
 				2,
-				3
+				3,
+				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"65",
-				"112"
+			"KillerIndvPerkBans": [
+				"151"
 			],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3347,25 +3346,27 @@
 		},
 		{
 			"Name": "The Animatronic",
-			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
+			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
-				"4",
-				"8",
-				"11"
+				"9",
+				"11",
+				"54"
 			],
 			"BalanceTiers": [
 				0,
-				3,
 				4
 			],
 			"SurvivorBalanceTiers": [
 				0,
 				2,
-				3
+				3,
+				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"151"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
