@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1763790323,
+	"Version": 1765342483,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -3033,7 +3033,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"19",
-				"29",
+				"49",
 				"33"
 			],
 			"BalanceTiers": [
@@ -3424,16 +3424,22 @@
 		},
 		{
 			"Name": "The Krasue",
-			"KillerNotes": "Double Vigo's Shroud must be used!",
-			"IsDisabled": true,
+			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
+			"IsDisabled": false,
 			"Map": [
-				0
+				"19",
+				"30",
+				"49"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2,
+				3,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -3445,14 +3451,30 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				817,
+				818,
+				815,
+				812,
+				811,
+				807,
+				806
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3470,8 +3492,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				3
+			],
+			"KillerOfferings": [
+				5
+			]
 		}
 	]
 }
