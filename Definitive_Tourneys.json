@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1765785703,
+	"Version": 1766507378,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2239,7 +2239,8 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				497,
-				498
+				498,
+				493
 			],
 			"ItemWhitelist": [
 				0,
