@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1767663743,
+	"Version": 1767925270,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -836,8 +836,8 @@
 			"IsDisabled": false,
 			"Map": [
 				"9",
-				"16",
-				"39"
+				"14",
+				"50"
 			],
 			"BalanceTiers": [
 				0
@@ -1924,7 +1924,8 @@
 				417,
 				418,
 				410,
-				412
+				412,
+				403
 			],
 			"ItemWhitelist": [
 				10,
