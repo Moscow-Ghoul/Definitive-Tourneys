@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1768796476,
+	"Version": 1769062202,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -519,9 +519,9 @@
 			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nVigo's Shroud and Shroud of Separation must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
-				"44",
 				"6",
-				"10"
+				"10",
+				"49"
 			],
 			"BalanceTiers": [
 				0,
@@ -605,7 +605,7 @@
 			"Map": [
 				"0",
 				"8",
-				"33"
+				"50"
 			],
 			"BalanceTiers": [
 				0,
