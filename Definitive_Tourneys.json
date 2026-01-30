@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1769155289,
+	"Version": 1769808359,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -9,6 +9,7 @@
 			"SurvivorIndvPerkBans": [
 				"52",
 				"7",
+				"300",
 				"16",
 				"17",
 				"18",
@@ -19,12 +20,14 @@
 				"24",
 				"25",
 				"60",
+				"301",
 				"28",
 				"286",
 				"288",
 				"33",
 				"43",
 				"280",
+				"303",
 				"268",
 				"267",
 				"46",
@@ -58,11 +61,14 @@
 				"263",
 				"260",
 				"115",
+				"302",
 				"116",
+				"305",
 				"290",
 				"287",
 				"117",
 				"122",
+				"304",
 				"254",
 				"130"
 			],
@@ -82,6 +88,7 @@
 				"171",
 				"174",
 				"175",
+				"299",
 				"291",
 				"180",
 				"185",
@@ -95,8 +102,10 @@
 				"216",
 				"218",
 				"219",
+				"298",
 				"227",
 				"235",
+				"297",
 				"238",
 				"293",
 				"257",
@@ -3516,6 +3525,57 @@
 			"KillerOfferings": [
 				5
 			]
+		},
+		{
+			"Name": "The First",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }
