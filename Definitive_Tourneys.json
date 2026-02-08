@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1770242566,
+	"Version": 1770583471,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -308,6 +308,7 @@
 				"256",
 				"196",
 				"212",
+				"298",
 				"225",
 				"226",
 				"234"
@@ -343,7 +344,6 @@
 				"277",
 				"178",
 				"151",
-				"298",
 				"249"
 			],
 			"SurvivorComboPerkBans": [],
@@ -484,7 +484,7 @@
 			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
-				"0",
+				"22",
 				"33",
 				"34"
 			],
@@ -731,9 +731,9 @@
 			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
-				"0",
 				"20",
-				"32"
+				"32",
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -805,7 +805,7 @@
 			"Map": [
 				"32",
 				"33",
-				"39"
+				"34"
 			],
 			"BalanceTiers": [
 				0
@@ -1023,7 +1023,7 @@
 			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
-				"8",
+				"9",
 				"33",
 				"34"
 			],
@@ -1245,8 +1245,8 @@
 			"IsDisabled": false,
 			"Map": [
 				"5",
-				"8",
-				"19"
+				"9",
+				"50"
 			],
 			"BalanceTiers": [
 				0,
@@ -1327,7 +1327,7 @@
 			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nVigo's Shroud and Shroud of Separation must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
-				"42",
+				"0",
 				"8",
 				"50"
 			],
@@ -1486,7 +1486,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"4",
-				"5",
+				"30",
 				"54"
 			],
 			"BalanceTiers": [
@@ -1566,8 +1566,8 @@
 			"IsDisabled": false,
 			"Map": [
 				"20",
-				"32",
-				"55"
+				"22",
+				"32"
 			],
 			"BalanceTiers": [
 				0
@@ -1857,8 +1857,8 @@
 			"IsDisabled": false,
 			"Map": [
 				"8",
-				"11",
-				"54"
+				"49",
+				"33"
 			],
 			"BalanceTiers": [
 				0,
@@ -1937,7 +1937,7 @@
 			"Map": [
 				"4",
 				"6",
-				"31"
+				"39"
 			],
 			"BalanceTiers": [
 				0,
@@ -2018,7 +2018,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"4",
-				"5",
+				"7",
 				"29"
 			],
 			"BalanceTiers": [
@@ -2402,7 +2402,7 @@
 			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
-				"0",
+				"22",
 				"32",
 				"34"
 			],
@@ -2544,8 +2544,8 @@
 			"IsDisabled": false,
 			"Map": [
 				"0",
-				"50",
-				"33"
+				"9",
+				"50"
 			],
 			"BalanceTiers": [
 				0,
@@ -2699,8 +2699,8 @@
 			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
-				"8",
 				"20",
+				"22",
 				"34"
 			],
 			"BalanceTiers": [
@@ -2931,7 +2931,7 @@
 			"Map": [
 				"8",
 				"20",
-				"54"
+				"33"
 			],
 			"BalanceTiers": [
 				0,
@@ -3243,8 +3243,8 @@
 			"IsDisabled": false,
 			"Map": [
 				"2",
-				"42",
-				"9"
+				"9",
+				"14"
 			],
 			"BalanceTiers": [
 				0,
