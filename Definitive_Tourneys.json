@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1771133747,
+	"Version": 1771437158,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -3402,9 +3402,9 @@
 			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
-				"5",
-				"34",
-				"54"
+				"4",
+				"8",
+				"34"
 			],
 			"BalanceTiers": [
 				0,
