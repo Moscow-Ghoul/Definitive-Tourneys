@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1771438694,
+	"Version": 1773020527,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -299,7 +299,6 @@
 				"163",
 				"164",
 				"179",
-				"299",
 				"176",
 				"177",
 				"182",
@@ -374,6 +373,7 @@
 				"147",
 				"155",
 				"172",
+				"299",
 				"186",
 				"278",
 				"209",
@@ -3638,7 +3638,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				3
+				5
 			],
 			"KillerOfferings": [
 				5
