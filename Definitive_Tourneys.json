@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1774814802,
+	"Version": 1775030776,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -65,6 +65,7 @@
 				"117",
 				"122",
 				"304",
+				"128",
 				"254",
 				"130"
 			],
