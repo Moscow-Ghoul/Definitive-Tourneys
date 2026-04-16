@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1775628351,
+	"Version": 1776348472,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -331,9 +331,6 @@
 				"39",
 				"279",
 				"44",
-				"261",
-				"307",
-				"308",
 				"109",
 				"113",
 				"253",
@@ -360,6 +357,9 @@
 				"30",
 				"248",
 				"40",
+				"261",
+				"307",
+				"308",
 				"50",
 				"57",
 				"274",
@@ -380,8 +380,8 @@
 				"299",
 				"186",
 				"278",
-				"209",
-				"211"
+				"211",
+				"209"
 			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
@@ -1111,18 +1111,20 @@
 			],
 			"BalanceTiers": [
 				0,
+				3,
 				4
 			],
 			"SurvivorBalanceTiers": [
 				0,
 				2,
-				3,
-				4
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"112"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
