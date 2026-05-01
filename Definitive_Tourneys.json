@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1776348472,
+	"Version": 1777609186,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -559,7 +559,7 @@
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nVigo's Shroud and Shroud of Separation must be used!\nTwo firecrackers are allowed!",
+			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either Shroud of Separation or double Vigo's Shroud!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"6",
@@ -643,7 +643,7 @@
 		},
 		{
 			"Name": "The Nurse",
-			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nVigo's Shroud and Shroud of Separation must be used!\nTwo firecrackers are allowed!",
+			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either Shroud of Separation or double Vigo's Shroud!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"0",
@@ -880,7 +880,7 @@
 			"Map": [
 				"9",
 				"14",
-				"50"
+				"54"
 			],
 			"BalanceTiers": [
 				0
@@ -1331,7 +1331,7 @@
 		},
 		{
 			"Name": "The Spirit",
-			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nVigo's Shroud and Shroud of Separation must be used!\nTwo firecrackers are allowed!",
+			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either Shroud of Separation or double Vigo's Shroud!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"0",
@@ -1941,12 +1941,12 @@
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nVigo's Shroud and Shroud of Separation must be used!\nTwo firecrackers are allowed!",
+			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either Shroud of Separation or double Vigo's Shroud!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"4",
-				"6",
-				"39"
+				"9",
+				"49"
 			],
 			"BalanceTiers": [
 				0,
@@ -3258,7 +3258,7 @@
 			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
-				"2",
+				"0",
 				"9",
 				"14"
 			],
