@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1782793438,
+	"Version": 1786410414,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -69,7 +69,6 @@
 				"304",
 				"128",
 				"254",
-				"314",
 				"130"
 			],
 			"KillerIndvPerkBans": [
@@ -291,7 +290,6 @@
 				"273",
 				"33",
 				"34",
-				"36",
 				"38",
 				"69",
 				"76",
@@ -301,7 +299,8 @@
 				"110",
 				"121",
 				"127",
-				"128"
+				"128",
+				"36"
 			],
 			"KillerIndvPerkBans": [
 				"131",
@@ -326,8 +325,8 @@
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": [
 				[
-					"220",
-					"132"
+					"210",
+					"160"
 				]
 			]
 		},
@@ -380,7 +379,8 @@
 				"92",
 				"106",
 				"112",
-				"124"
+				"124",
+				"314"
 			],
 			"KillerIndvPerkBans": [
 				"270",
@@ -570,7 +570,7 @@
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either Shroud of Separation or double Vigo's Shroud!\nTwo firecrackers are allowed!",
+			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either use Shroud of Separation and Vigo's Shroud together or double Vigo's Shroud!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"6",
@@ -593,7 +593,10 @@
 			"SurvivorIndvPerkBans": [
 				"34",
 				"38",
-				"110"
+				"80",
+				"110",
+				"121",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [
@@ -654,7 +657,7 @@
 		},
 		{
 			"Name": "The Nurse",
-			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either Shroud of Separation or double Vigo's Shroud!\nTwo firecrackers are allowed!",
+			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either use Shroud of Separation and Vigo's Shroud together or double Vigo's Shroud!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"0",
@@ -1342,7 +1345,7 @@
 		},
 		{
 			"Name": "The Spirit",
-			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either Shroud of Separation or double Vigo's Shroud!\nTwo firecrackers are allowed!",
+			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either use Shroud of Separation and Vigo's Shroud together or double Vigo's Shroud!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"0",
@@ -1371,7 +1374,10 @@
 				"63",
 				"64",
 				"68",
-				"78"
+				"78",
+				"80",
+				"121",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1952,7 +1958,7 @@
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either Shroud of Separation or double Vigo's Shroud!\nTwo firecrackers are allowed!",
+			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either use Shroud of Separation and Vigo's Shroud together or double Vigo's Shroud!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"4",
@@ -3359,10 +3365,7 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"184",
-				"220"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -3674,7 +3677,7 @@
 			"Map": [
 				"4",
 				"16",
-				"40"
+				"28"
 			],
 			"BalanceTiers": [
 				0,
