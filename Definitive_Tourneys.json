@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1786410414,
+	"Version": 1786759907,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1290,6 +1290,7 @@
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [
+				"8",
 				"65",
 				"112"
 			],
