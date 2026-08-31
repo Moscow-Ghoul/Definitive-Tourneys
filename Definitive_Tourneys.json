@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1787944769,
+	"Version": 1788150421,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -13,6 +13,7 @@
 				"17",
 				"18",
 				"19",
+				"318",
 				"20",
 				"73",
 				"22",
@@ -261,6 +262,7 @@
 			"KillerIndvPerkBans": [
 				"132",
 				"243",
+				"316",
 				"184",
 				"264",
 				"204",
@@ -339,6 +341,7 @@
 				"39",
 				"279",
 				"44",
+				"320",
 				"109",
 				"113",
 				"253",
@@ -369,6 +372,7 @@
 				"307",
 				"308",
 				"50",
+				"319",
 				"57",
 				"274",
 				"65",
@@ -383,6 +387,7 @@
 			"KillerIndvPerkBans": [
 				"270",
 				"245",
+				"315",
 				"147",
 				"155",
 				"172",
@@ -2814,8 +2819,8 @@
 				"139",
 				"152",
 				"169",
-				"214",
-				"221"
+				"316",
+				"214"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
@@ -3591,7 +3596,8 @@
 				0,
 				2,
 				3,
-				4
+				4,
+				5
 			],
 			"SurvivorBalanceTiers": [
 				0,
@@ -3599,8 +3605,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"132",
-				"220"
+				"132"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
@@ -3701,6 +3706,90 @@
 				851,
 				846,
 				845
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
+		},
+		{
+			"Name": "The Judgment",
+			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
+			"IsDisabled": false,
+			"Map": [
+				"0",
+				"50",
+				"49"
+			],
+			"BalanceTiers": [
+				0,
+				3,
+				4,
+				5
+			],
+			"SurvivorBalanceTiers": [
+				0,
+				1,
+				2,
+				3
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [
+				"132"
+			],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [
+				864,
+				863,
+				872,
+				870,
+				868,
+				875,
+				873,
+				877
 			],
 			"ItemWhitelist": [
 				0,
