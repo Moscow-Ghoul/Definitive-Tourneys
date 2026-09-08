@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1788150421,
+	"Version": 1788907954,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -344,8 +344,7 @@
 				"320",
 				"109",
 				"113",
-				"253",
-				"124"
+				"253"
 			],
 			"KillerIndvPerkBans": [
 				"166",
@@ -355,7 +354,12 @@
 				"151",
 				"249"
 			],
-			"SurvivorComboPerkBans": [],
+			"SurvivorComboPerkBans": [
+				[
+					"294",
+					"112"
+				]
+			],
 			"KillerComboPerkBans": []
 		},
 		{
@@ -1660,8 +1664,8 @@
 			"IsDisabled": false,
 			"Map": [
 				"0",
-				"8",
-				"13"
+				"13",
+				"22"
 			],
 			"BalanceTiers": [
 				0,
@@ -1751,6 +1755,8 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"261",
+				"307",
 				"65"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2369,7 +2375,9 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"183"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -2575,8 +2583,8 @@
 			"IsDisabled": false,
 			"Map": [
 				"0",
-				"9",
-				"50"
+				"50",
+				"49"
 			],
 			"BalanceTiers": [
 				0,
@@ -2667,7 +2675,9 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"183"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -3191,7 +3201,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"9",
-				"14",
+				"16",
 				"49"
 			],
 			"BalanceTiers": [
@@ -3426,9 +3436,9 @@
 			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
-				"4",
-				"8",
-				"34"
+				"5",
+				"34",
+				"54"
 			],
 			"BalanceTiers": [
 				0,
@@ -3588,8 +3598,8 @@
 			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
-				"0",
 				"50",
+				"49",
 				"34"
 			],
 			"BalanceTiers": [
@@ -3750,11 +3760,11 @@
 		},
 		{
 			"Name": "The Judgment",
-			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
+			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either use Shroud of Separation and Vigo's Shroud together or double Vigo's Shroud!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"50",
+				"7",
+				"16",
 				"49"
 			],
 			"BalanceTiers": [
@@ -3765,13 +3775,13 @@
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				1,
-				2,
-				3
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"132"
+				"132",
+				"183",
+				"220"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
@@ -3826,7 +3836,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
