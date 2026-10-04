@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1791089509,
+	"Version": 1791093404,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -566,7 +566,7 @@
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either use Shroud of Separation and Vigo's Shroud together or double Vigo's Shroud!\nTwo firecrackers are allowed!",
+			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either Shroud of Separation and Vigo's Shroud together or double Vigo's Shroud!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"6",
@@ -653,7 +653,7 @@
 		},
 		{
 			"Name": "The Nurse",
-			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either use Shroud of Separation and Vigo's Shroud together or double Vigo's Shroud!\nTwo firecrackers are allowed!",
+			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either Shroud of Separation and Vigo's Shroud together or double Vigo's Shroud!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"0",
@@ -1334,7 +1334,7 @@
 		},
 		{
 			"Name": "The Spirit",
-			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either use Shroud of Separation and Vigo's Shroud together or double Vigo's Shroud!\nTwo firecrackers are allowed!",
+			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either Shroud of Separation and Vigo's Shroud together or double Vigo's Shroud!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"0",
@@ -1950,7 +1950,7 @@
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either use Shroud of Separation and Vigo's Shroud together or double Vigo's Shroud!\nTwo firecrackers are allowed!",
+			"KillerNotes": "Bloodied and Annotated blueprints must be used!\nYou may choose to use either Shroud of Separation and Vigo's Shroud together or double Vigo's Shroud!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
 				"4",
