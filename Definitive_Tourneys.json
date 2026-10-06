@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1791301902,
+	"Version": 1791307466,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -3680,13 +3680,13 @@
 			],
 			"BalanceTiers": [
 				0,
+				2,
 				3,
 				4
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				2,
-				3
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
