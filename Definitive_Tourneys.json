@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1791307466,
+	"Version": 1791782928,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -314,6 +314,7 @@
 				"183",
 				"256",
 				"196",
+				"198",
 				"212",
 				"298",
 				"225",
@@ -341,6 +342,7 @@
 				"39",
 				"279",
 				"44",
+				"296",
 				"320",
 				"253",
 				"126"
@@ -350,7 +352,6 @@
 				"170",
 				"277",
 				"178",
-				"198",
 				"151",
 				"249"
 			],
@@ -1673,7 +1674,10 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"107",
+				"123"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2370,7 +2374,8 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"183"
+				"183",
+				"194"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
@@ -2518,7 +2523,8 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"147",
-				"155"
+				"155",
+				"194"
 			],
 			"KillerComboPerkBans": [
 				[
@@ -2674,7 +2680,8 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"183"
+				"183",
+				"194"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
