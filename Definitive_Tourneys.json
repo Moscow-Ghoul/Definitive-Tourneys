@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1792917904,
+	"Version": 1792951046,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -307,6 +307,7 @@
 				"110",
 				"121",
 				"127",
+				"128",
 				"36"
 			],
 			"KillerIndvPerkBans": [
