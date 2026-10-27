@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1792951046,
+	"Version": 1793113280,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -761,7 +761,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"20",
-				"32",
+				"28",
 				"39"
 			],
 			"BalanceTiers": [
@@ -900,8 +900,8 @@
 			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
+				"42",
 				"9",
-				"14",
 				"54"
 			],
 			"BalanceTiers": [
@@ -1045,8 +1045,8 @@
 			"IsDisabled": false,
 			"Map": [
 				"22",
-				"32",
-				"33"
+				"33",
+				"34"
 			],
 			"BalanceTiers": [
 				0,
@@ -1816,7 +1816,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"4",
-				"8",
+				"9",
 				"16"
 			],
 			"BalanceTiers": [
@@ -1969,7 +1969,7 @@
 			"Map": [
 				"4",
 				"6",
-				"16"
+				"31"
 			],
 			"BalanceTiers": [
 				0,
@@ -2280,8 +2280,8 @@
 			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
-				"9",
 				"22",
+				"32",
 				"33"
 			],
 			"BalanceTiers": [
@@ -2586,7 +2586,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"0",
-				"8",
+				"13",
 				"33"
 			],
 			"BalanceTiers": [
@@ -2812,7 +2812,7 @@
 			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
-				"4",
+				"5",
 				"16",
 				"33"
 			],
@@ -2896,7 +2896,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"9",
-				"14",
+				"13",
 				"34"
 			],
 			"BalanceTiers": [
@@ -3047,8 +3047,8 @@
 			"IsDisabled": false,
 			"Map": [
 				"8",
-				"33",
-				"54"
+				"49",
+				"33"
 			],
 			"BalanceTiers": [
 				0,
