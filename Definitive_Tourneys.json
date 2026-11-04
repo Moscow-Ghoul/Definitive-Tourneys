@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1793113280,
+	"Version": 1793818714,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -263,6 +263,10 @@
 				[
 					"157",
 					"317"
+				],
+				[
+					"177",
+					"214"
 				]
 			]
 		},
@@ -775,7 +779,9 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"163"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -918,6 +924,7 @@
 			"KillerIndvPerkBans": [
 				"147",
 				"155",
+				"163",
 				"176",
 				"201"
 			],
@@ -1059,7 +1066,9 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"163"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"53"
@@ -1830,7 +1839,9 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"163"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -1888,9 +1899,9 @@
 			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
-				"8",
+				"9",
 				"49",
-				"33"
+				"32"
 			],
 			"BalanceTiers": [
 				0,
@@ -1903,11 +1914,17 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"123"
+			"KillerIndvPerkBans": [
+				"163",
+				"283",
+				"188",
+				"215",
+				"194",
+				"213",
+				"240"
 			],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1919,7 +1936,10 @@
 				392,
 				393,
 				397,
-				398
+				398,
+				391,
+				384,
+				382
 			],
 			"ItemWhitelist": [
 				0,
@@ -2358,8 +2378,8 @@
 			"IsDisabled": false,
 			"Map": [
 				"5",
-				"54",
-				"47"
+				"47",
+				"56"
 			],
 			"BalanceTiers": [
 				0,
@@ -2373,7 +2393,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"183",
+				"163",
 				"194"
 			],
 			"KillerComboPerkBans": [],
@@ -3299,7 +3319,9 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"163"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -3453,7 +3475,9 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"163"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
