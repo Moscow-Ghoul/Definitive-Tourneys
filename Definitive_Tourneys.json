@@ -1,6 +1,6 @@
 {
 	"Name": "Definitive Tourneys",
-	"Version": 1793818714,
+	"Version": 1794818731,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -111,28 +111,12 @@
 			],
 			"SurvivorComboPerkBans": [
 				[
-					"112",
-					"124"
-				],
-				[
-					"124",
-					"107"
-				],
-				[
-					"21",
-					"39"
-				],
-				[
 					"78",
 					"36"
 				],
 				[
 					"78",
 					"53"
-				],
-				[
-					"294",
-					"124"
 				],
 				[
 					"294",
@@ -149,10 +133,6 @@
 				[
 					"14",
 					"48"
-				],
-				[
-					"21",
-					"127"
 				],
 				[
 					"36",
@@ -367,12 +347,7 @@
 				"151",
 				"249"
 			],
-			"SurvivorComboPerkBans": [
-				[
-					"294",
-					"112"
-				]
-			],
+			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
 		},
 		{
@@ -1126,7 +1101,7 @@
 			"KillerNotes": "Double Vigo's Shroud must be used!",
 			"IsDisabled": false,
 			"Map": [
-				"0",
+				"45",
 				"9",
 				"33"
 			],
@@ -2378,8 +2353,8 @@
 			"IsDisabled": false,
 			"Map": [
 				"5",
-				"47",
-				"56"
+				"28",
+				"47"
 			],
 			"BalanceTiers": [
 				0,
@@ -3381,7 +3356,7 @@
 			"KillerNotes": "Double Vigo's Shroud must be used!\nTwo firecrackers are allowed!",
 			"IsDisabled": false,
 			"Map": [
-				"9",
+				"45",
 				"50",
 				"49"
 			],
